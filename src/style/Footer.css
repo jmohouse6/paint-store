@@ -1,0 +1,14 @@
+.Footer {
+  margin: 80px auto;
+  max-width: 400px;
+  font-family: "times new roman", times, serif;
+  font-style: "times new roman";
+  border: 3px solid #4e3838;
+  background-color: #a39e9e;
+  padding: 20px 30px;
+}
+.Footer a {
+  font-weight: bold;
+  text-decoration: underline;
+  color: blue;
+}
